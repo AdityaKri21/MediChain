@@ -74,8 +74,7 @@ Medichain is a platform that combines Generative AI (GenAI), Machine Learning, a
 ---
 
 ## Screenshots
-### Login/Signup Page
-![image](https://github.com/user-attachments/assets/a0bb8ae2-df04-4997-ad88-cb3855d1fecd)
+
 
 ### Home Page
 
