@@ -56,9 +56,7 @@ Medichain is a platform that combines Generative AI (GenAI), Machine Learning, a
 - **Image Processing:** OpenCV, Pillow   
 - **Optimization Algorithms:** SciPy 
 
-### **Blockchain Integration**  
-- **Smart Contracts:** Solidity  
-- **Web3 Interaction:** Ether.js, MetaMask  
+
 
 ### **APIs**  
 - OpenStreetMap API  
@@ -114,12 +112,6 @@ Medichain is a platform that combines Generative AI (GenAI), Machine Learning, a
 ![image](https://github.com/user-attachments/assets/6fcd6f54-f5d1-42e3-b5bb-b300eeab8653)
 ![image](https://github.com/user-attachments/assets/22c52927-5a05-4f74-ac62-d780b12fc080)
 
-### Decentralised Storage on IPFS via Pinata
-
-![ca4af4b2-07fa-4806-92d8-783068714dcf](https://github.com/user-attachments/assets/9e730a42-92e1-4e4f-bdfe-f4fe58a9ec4a)
-![948e5db4-e6d3-4df9-b7ed-58da638de141](https://github.com/user-attachments/assets/ce4dfe70-f242-4b1b-8c44-42ba94998f69)
-![809a3d2e-51f1-43fc-8f7c-4b76f9a8f35e](https://github.com/user-attachments/assets/c814229b-827a-4797-806a-8a66a3339291)
-![d5e8a5cb-468b-412b-8d41-846a97900d49](https://github.com/user-attachments/assets/0e3b02ae-778e-42d5-870a-3d32ba961f9a)
 
 
 
@@ -129,7 +121,6 @@ Medichain is a platform that combines Generative AI (GenAI), Machine Learning, a
 
 ![c30f1011-919e-41bd-8c53-4aae85bdb714](https://github.com/user-attachments/assets/af2d77f3-8629-4c1b-8bf7-5e9b756c6054)
 ![08558c63-ffa5-43df-aebb-56ad20d3a1c4](https://github.com/user-attachments/assets/785d4200-ddd0-42e1-afd0-fb4c2abb77d7)
-![4105c10c-b7f5-4289-8bbe-0777d08ec296](https://github.com/user-attachments/assets/76a85ebc-5f23-4ec7-8ace-d03a79752cc8)
 
 
 ## Installation 
